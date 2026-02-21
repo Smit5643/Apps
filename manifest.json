@@ -1,0 +1,18 @@
+{
+  "name": "Suresh Millgin Stores",
+  "short_name": "SMS",
+  "description": "Loom Machinery Spare Parts",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0f0f0f",
+  "theme_color": "#0f0f0f",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 512 512'><rect width='512' height='512' fill='%230f0f0f'/><text y='320' x='50%' font-family='Arial' font-size='220' text-anchor='middle' fill='%23D4AF37'>SMS</text></svg>",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
